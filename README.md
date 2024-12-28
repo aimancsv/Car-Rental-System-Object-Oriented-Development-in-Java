@@ -29,7 +29,8 @@ The system allows **admins** to manage car rentals, generate reports, and track 
 - **Car Booking**: Book cars by selecting rental periods.
 - **Booking History**: View past bookings and payment receipts.
 - **Profile Management**: Update personal details such as email and address.
-- 
+
+
 <img width="800" alt="Screenshot 2024-12-28 at 12 07 26 PM" src="https://github.com/user-attachments/assets/43ba28ce-647f-448b-b46a-cbb1e2e18824" />
 <img width="800" alt="Screenshot 2024-12-28 at 12 08 06 PM" src="https://github.com/user-attachments/assets/5fe92ff9-7f41-4604-a47e-793a61e09862" />
 <img width="800" alt="Screenshot 2024-12-28 at 12 09 06 PM" src="https://github.com/user-attachments/assets/fbcc14b7-05a2-433f-a825-14aeab3ad16c" />
