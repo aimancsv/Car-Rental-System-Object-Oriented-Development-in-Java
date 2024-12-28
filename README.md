@@ -1,6 +1,5 @@
-
-
 This project is a **Car Rental System** developed in Java using core **Object-Oriented Programming (OOP)** principles.
+
 
 ![car_project drawio](https://github.com/user-attachments/assets/87b01732-e0f9-4176-aed3-5b151c2fd16b)
 
