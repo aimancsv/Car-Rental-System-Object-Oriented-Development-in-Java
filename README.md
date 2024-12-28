@@ -1,10 +1,10 @@
-This project is a **Car Rental System** developed in Java using core **Object-Oriented Programming (OOP)** principles.
 
+
+## Overview
+
+This project is a **Car Rental System** developed in Java using core **Object-Oriented Programming (OOP)** principles. The system allows **admins** to manage car rentals, generate reports, and track bookings, while **customers** can book cars, view booking history, and update their profiles. 
 
 <img src="https://github.com/user-attachments/assets/87b01732-e0f9-4176-aed3-5b151c2fd16b" width="800" height="600">
-
-
-
 
 The system allows **admins** to manage car rentals, generate reports, and track bookings, while **customers** can book cars, view booking history, and update their profiles. The project was developed as part of a university assignment to apply OOP principles in real-world software development.
 
@@ -34,7 +34,6 @@ The system allows **admins** to manage car rentals, generate reports, and track 
 <img width="800" alt="Screenshot 2024-12-28 at 12 07 26 PM" src="https://github.com/user-attachments/assets/43ba28ce-647f-448b-b46a-cbb1e2e18824" />
 <img width="800" alt="Screenshot 2024-12-28 at 12 08 06 PM" src="https://github.com/user-attachments/assets/5fe92ff9-7f41-4604-a47e-793a61e09862" />
 <img width="800" alt="Screenshot 2024-12-28 at 12 09 06 PM" src="https://github.com/user-attachments/assets/fbcc14b7-05a2-433f-a825-14aeab3ad16c" />
-
 
 
 ## Technical Highlights
